@@ -1,2 +1,2 @@
-# FaciReco
-Face Recognition using OpenCV
+# Object Recognition
+Object Recognition using OpenCV.
